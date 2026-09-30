@@ -1,0 +1,17 @@
+TargetCard,ChoseCard,IsCorrect,UsingTime,DistanceLevel,GazeCount,GazeMaxTime
+Blue_PlayingCards_Club02_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club02_00(Clone) (UnityEngine.GameObject),TRUE,9.25086,0,,
+Blue_PlayingCards_Club10_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club10_00(Clone) (UnityEngine.GameObject),TRUE,13.73759,0,,
+Blue_PlayingCards_Club01_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club05_00(Clone) (UnityEngine.GameObject),FALSE,9.331938,-1.014371,,
+Blue_PlayingCards_Club03_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club03_00(Clone) (UnityEngine.GameObject),TRUE,3.387639,0,,
+Blue_PlayingCards_Club04_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club10_00(Clone) (UnityEngine.GameObject),FALSE,17.66329,-0.6026859,,
+Blue_PlayingCards_Club03_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club09_00(Clone) (UnityEngine.GameObject),FALSE,10.58916,0.001774892,,
+Blue_PlayingCards_Club10_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club10_00(Clone) (UnityEngine.GameObject),TRUE,8.437185,-0.2,3,1.000778
+Blue_PlayingCards_Club01_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club01_00(Clone) (UnityEngine.GameObject),TRUE,29.18505,-0.2,3,1.000206
+Blue_PlayingCards_Club06_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club06_00(Clone) (UnityEngine.GameObject),TRUE,50.94903,-0.2,2,1.000175
+Blue_PlayingCards_Club03_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club03_00(Clone) (UnityEngine.GameObject),TRUE,9.205775,-0.2,1,1.000571
+Blue_PlayingCards_Club05_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club10_00(Clone) (UnityEngine.GameObject),FALSE,15.425,-1.010513,1,1.002594
+Blue_PlayingCards_Club08_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club10_00(Clone) (UnityEngine.GameObject),FALSE,8.875942,2.020587,1,1.003314
+Blue_PlayingCards_Club03_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club06_00(Clone) (UnityEngine.GameObject),FALSE,12.12648,1,1,1.002413
+Blue_PlayingCards_Club05_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club02_00(Clone) (UnityEngine.GameObject),False, 9.286342,On Right2 Pawn,1,1.005067
+Blue_PlayingCards_Club09_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club03_00(Clone) (UnityEngine.GameObject),False, 7.738914,On Left1 Pawn,1,1.003674
+Blue_PlayingCards_Club04_00(Clone) (UnityEngine.GameObject),Blue_PlayingCards_Club04_00(Clone) (UnityEngine.GameObject),True, 40.26054,Correct,0,0

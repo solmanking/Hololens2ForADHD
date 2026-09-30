@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Blue2" size="1.000000 1.511335" />
+    <ImageTarget name="Rock" size="1.000000 0.668945" />
+    <ImageTarget name="gray" size="1.000000 1.500000" />
+    <ImageTarget name="Red" size="1.000000 1.500000" />
+    <ImageTarget name="Blue" size="1.000000 1.498127" />
+  </Tracking>
+</QCARConfig>
