@@ -1,2 +1,3 @@
 # Hololens2ForADHD
-Hololens2ForADHD 
+雲科數媒實驗室舊專案
+ADHD孩童輔助治療專案，以Micorsoft Hololens2設備為基底，以 MixReality在安全空間內投影治療空間，兒童透過手勢與治療物件互動來完成輔助治療。
